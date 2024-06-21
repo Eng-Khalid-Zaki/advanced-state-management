@@ -1,1 +1,1 @@
-# advanced-state-management
+# basic-shop-app
